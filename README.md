@@ -60,19 +60,12 @@ This analysis was structured around five guiding questions:
 
 ```
 .
-├── data/
-│   ├── survey_lung_cancer.csv          # Raw dataset from Kaggle
-│   └── cleaned_lung_cancer_data.csv    # Cleaned dataset (output of the script)
-├── scripts/
-│   └── Lung_Cancer_Analysis_Tanmoy.R   # Main analysis script
-├── reports/
-│   └── Final_Presentation_Tanmoy.pptx  # Final presentation deck
-├── docs/
-│   └── Data_Source.docx                # Dataset source reference
+├── survey_lung_cancer.csv              # Raw dataset from Kaggle
+├── cleaned_lung_cancer_data.csv        # Cleaned dataset (output of the script)
+├── Lung_Cancer_Analysis_Tanmoy.R       # Main analysis script
+├── Final_Presentation_Tanmoy.pptx      # Final presentation deck
 └── README.md
 ```
-
-> Adjust the folder names above to match the structure you push to GitHub if different.
 
 ---
 
